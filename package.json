@@ -6,21 +6,13 @@
   "scripts": {
     "test": "gulp"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/B-Pratik/WhoWhatWhere.git"
-  },
   "keywords": [
     "yelp",
     "foursquare",
     "business"
   ],
-  "author": "Roshan Mali",
+  "author": "shailesh",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/B-Pratik/WhoWhatWhere/issues"
-  },
-  "homepage": "https://github.com/B-Pratik/WhoWhatWhere#readme",
   "dependencies": {
     "angular": "^1.5.7",
     "angular-animate": "^1.5.8",
