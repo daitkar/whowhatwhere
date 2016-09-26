@@ -55,6 +55,6 @@
      "base64-font-loader": "0.0.4",
     "body-parser": "^1.15.2",
      "bootstrap-sass": "^3.3.6",
-     "resolve-url-loader": "^1.4.4",
+     "resolve-url-loader": "^1.4.4"
   }
 }
